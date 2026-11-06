@@ -6,7 +6,7 @@
 | **Curso** | Análise e Desenvolvimento de Sistemas (ADS) |
 | **Disciplina** | Projetos de Sistemas |
 | **Trabalho** | Requisitos e Arquitetura de um Sistema (entrega individual) |
-| **Aluno** | Jhosse *(completar com sobrenome e matrícula)* |
+| **Aluno** | José Lima da Mota Neto - 25000360 |
 | **Sistema** | Porto Baré — consulta e agendamento de embarcações |
 | **Versão** | 1.0 — Parte 1 (Negócio e Requisitos) — novembro de 2026 |
 
