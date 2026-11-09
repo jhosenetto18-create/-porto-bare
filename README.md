@@ -8,7 +8,7 @@
 | **Curso** | Análise e Desenvolvimento de Sistemas (ADS) |
 | **Disciplina** | Projetos de Sistemas |
 | **Trabalho** | Requisitos e Arquitetura de um Sistema |
-| **Aluno** | José Lima da Mota Neto |
+| **Aluno** | José Lima da Mota Neto - 4° Período |
 | **Professor** | Brendo Rodrigo Souza de Matos |
 | **Sistema** | Porto Baré — consulta e agendamento de embarcações |
 | **Versão** | 2.0 — Trabalho completo (Parte 1 ) — novembro de 2026 |
