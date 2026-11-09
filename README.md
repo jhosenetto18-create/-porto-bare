@@ -7,10 +7,11 @@
 | **Instituição** | Centro Universitário de Ensino Superior do Amazonas (CIESA) |
 | **Curso** | Análise e Desenvolvimento de Sistemas (ADS) |
 | **Disciplina** | Projetos de Sistemas |
-| **Trabalho** | Requisitos e Arquitetura de um Sistema (entrega individual) |
+| **Trabalho** | Requisitos e Arquitetura de um Sistema |
 | **Aluno** | José Lima da Mota Neto |
+| **Professor** | Brendo Rodrigo Souza de Matos |
 | **Sistema** | Porto Baré — consulta e agendamento de embarcações |
-| **Versão** | 2.0 — Trabalho completo (Parte 1 e Parte 2) — novembro de 2026 |
+| **Versão** | 2.0 — Trabalho completo (Parte 1 ) — novembro de 2026 |
 
 Este documento reúne todo o conteúdo do trabalho. A **Parte 1** levanta e classifica os requisitos do sistema. A **Parte 2** projeta a arquitetura cliente-servidor que atende a esses requisitos. Regra central: toda decisão de arquitetura da Parte 2 é rastreável a um requisito da Parte 1 (seção [2.4](#24-rastreabilidade)).
 
