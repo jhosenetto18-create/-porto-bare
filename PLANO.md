@@ -7,6 +7,7 @@
 | **Disciplina** | Projetos de Sistemas |
 | **Trabalho** | Etapa 2: plano de projeto a partir da arquitetura da Etapa 1 (entrega individual) |
 | **Aluno** | José Lima da Mota Neto |
+| **Professor** | Brendo Rodrigo Souza De Matos |
 | **Sistema** | Porto Baré — consulta e agendamento de embarcações |
 | **Base** | Arquitetura cliente-servidor da Etapa 1, em [`README.md`](README.md) |
 | **Versão** | 1.0 — novembro de 2026 |
