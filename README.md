@@ -9,6 +9,7 @@
 | **Disciplina** | Projetos de Sistemas |
 | **Trabalho** | Requisitos e Arquitetura de um Sistema (entrega individual) |
 | **Aluno** | José Lima da Mota Neto |
+| **Professor** | Brendo Rodrigo Souza De Matos |
 | **Sistema** | Porto Baré — consulta e agendamento de embarcações |
 | **Versão** | 2.0 — Trabalho completo (Parte 1 e Parte 2) — novembro de 2026 |
 
